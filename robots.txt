@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dursuncinaroglu.github.io/sitemap.xml
